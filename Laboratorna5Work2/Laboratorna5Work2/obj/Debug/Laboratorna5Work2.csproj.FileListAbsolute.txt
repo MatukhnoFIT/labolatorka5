@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Лабораторна № 5\Laboratorna5Work2\Laboratorna5Work2\bin\Debug\Laboratorna5Work2.exe.config
+C:\Users\user\Desktop\Лабораторна № 5\Laboratorna5Work2\Laboratorna5Work2\bin\Debug\Laboratorna5Work2.exe
+C:\Users\user\Desktop\Лабораторна № 5\Laboratorna5Work2\Laboratorna5Work2\bin\Debug\Laboratorna5Work2.pdb
+C:\Users\user\Desktop\Лабораторна № 5\Laboratorna5Work2\Laboratorna5Work2\obj\Debug\Laboratorna5Work2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Лабораторна № 5\Laboratorna5Work2\Laboratorna5Work2\obj\Debug\Laboratorna5Work2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабораторна № 5\Laboratorna5Work2\Laboratorna5Work2\obj\Debug\Laboratorna5Work2.exe
+C:\Users\user\Desktop\Лабораторна № 5\Laboratorna5Work2\Laboratorna5Work2\obj\Debug\Laboratorna5Work2.pdb
